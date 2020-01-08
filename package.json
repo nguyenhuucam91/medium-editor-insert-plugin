@@ -38,7 +38,8 @@
     "handlebars": "^4.0.12",
     "jquery": ">=1.9.0",
     "jquery-sortable": "~0.9.12",
-    "medium-editor": "^5.15.0"
+    "medium-editor": "^5.15.0",
+    "ua-parser-js": "^0.7.21"
   },
   "devDependencies": {
     "all-contributors-cli": "^5.10.2",

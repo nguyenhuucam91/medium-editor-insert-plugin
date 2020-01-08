@@ -1,3 +1,5 @@
+import UAParser from 'ua-parser-js';
+
 ;(function ($, window, document, undefined) {
 
     'use strict';
